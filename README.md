@@ -1,0 +1,4 @@
+- 👋 Hi, I’m George Ferres
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java/Arduino
+- 📫 How to reach me georgeferres.business@gmail.com
