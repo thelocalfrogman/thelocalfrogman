@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm George from Melbourne, Australia<br><br>- 🔭 I’m working as a System/Network Admin<br>- 📚 I'm currently learning Networking, Offensive & Defensive Security<br>- ⚡ In my free time I like to work on open-source projects like the [Deakin University Cybersecurity Association's](https://github.com/duca-club/duca-sentinel) discord bot and other open source ventures</p>
+<p align="left">I'm George from Melbourne, Australia<br><br>- 🔭 I’m working as a System/Network Admin<br>- 📚 I'm currently learning Networking, Offensive & Defensive Security<br>- ⚡ In my free time I like to work on open-source projects like the Deakin University Cybersecurity Association's discord bot and other open source ventures</p>
 
 ###
 
