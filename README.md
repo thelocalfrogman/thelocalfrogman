@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">I'm George 👋 Hobbyist programmer; Big into Cybersecurity</h1>
+<h1 align="center">I'm George 👋 Hobbyist programmer; Cybersecurity nerd</h1>
 
 ###
 
