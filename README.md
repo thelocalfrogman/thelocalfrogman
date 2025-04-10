@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">I'm George 👋 Hobbyist programmer; Cybersecurity nerd</h1>
+<h1 align="center">I'm George 👋 Hobbyist programmer | Cybersecurity nerd</h1>
 
 ###
 
@@ -32,7 +32,25 @@
 
 ###
 
-<p align="left">I'm George from Melbourne, Australia<br><br>- 🔭 I’m working as a System/Network Admin<br>- 📚 I'm currently learning Networking, Offensive & Defensive Security<br>- ⚡ In my free time I like to work on open-source projects like the Deakin University Cybersecurity Association's discord bot and other open source ventures</p>
+<p align="left">
+📍 Melbourne, Australia<br>
+💻 System & Network Administrator<br><br>
+
+<strong>🚀 What I’m Working On</strong><br>
+• Building and supporting infrastructure as a System/Network Admin<br>
+• Building open-source tools for community and education<br>
+• Contributing to the <a href="https://github.com/duca-club/duca-sentinel">DUCA Sentinel Discord bot</a> for Deakin University's Cybersecurity Association<br><br>
+
+<strong>📚 What I’m Learning</strong><br>
+• Networking for the Cisco CCNA<br>
+• Offensive and defensive security concepts<br>
+• Applying Python, Bash & JavaScript in a cyber security setting<br><br>
+
+<strong>💡 Fun Stuff</strong><br>
+• Tinkering with code to solve real-world problems<br>
+• Writing up what I learn on <a href="https://georgeferres.com">georgeferres.com</a><br>
+• Collaborating on open-source projects that support students & early-career professionals like myself!
+</p>
 
 ###
 
