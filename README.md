@@ -18,7 +18,9 @@
 
 ###
 
-<h1 align="center">I'm George 👋 Hobbyist programmer | Cybersecurity nerd</h1>
+<h1 align="center">I'm George 👋</h1>
+<h2 align="center">System & Network Administrator | Cybersecurity Student | Builder of Open-Source Tools</h2>
+
 
 ###
 
@@ -34,22 +36,23 @@
 
 <p align="left">
 📍 Melbourne, Australia<br>
-💻 System & Network Administrator<br><br>
+💻 System & Network Administrator by day, building security skills and projects by night<br>
+🔒 Focused on offensive security and practical cyber defense<br><br>
 
 <strong>🚀 What I’m Working On</strong><br>
-• Building and supporting infrastructure as a System/Network Admin<br>
-• Building open-source tools for community and education<br>
-• Contributing to the <a href="https://github.com/duca-club/duca-sentinel">DUCA Sentinel Discord bot</a> for Deakin University's Cybersecurity Association<br><br>
+• Building and supporting infrastructure in a live environment<br>
+• Developing open-source tools for cybersecurity education and community use<br>
+• Contributing to <a href="https://github.com/duca-club/duca-sentinel">DUCA Sentinel</a>, the Discord bot for Deakin University's Cybersecurity Association<br><br>
 
 <strong>📚 What I’m Learning</strong><br>
-• Networking for the Cisco CCNA<br>
-• Offensive and defensive security concepts<br>
-• Applying Python, Bash & JavaScript in a cyber security setting<br><br>
+• Networking topics for the Cisco CCNA<br>
+• Offensive and defensive security techniques<br>
+• Applying Python, Bash, Go, and JavaScript in real-world cybersecurity scenarios<br><br>
 
 <strong>💡 Fun Stuff</strong><br>
-• Tinkering with code to solve real-world problems<br>
-• Writing up what I learn on <a href="https://georgeferres.com">georgeferres.com</a><br>
-• Collaborating on open-source projects that support students & early-career professionals like myself!
+• Writing up technical lessons and walkthroughs on <a href="https://georgeferres.com">georgeferres.com</a><br>
+• Tinkering with code re: threat detection, intelligence, and automation to solve (and create) cybersecurity challenges<br>
+• Collaborating on projects that support students, clubs, and early-career cybersecurity professionals like myself<br><br>
 </p>
 
 ###
