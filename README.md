@@ -19,7 +19,7 @@
 ###
 
 <h1 align="center">I'm George 👋</h1>
-<h2 align="center">System & Network Administrator | Cybersecurity Student | Builder of Open-Source Tools</h2>
+<h2 align="center">System & Network Administrator | Cybersecurity Student | Contributing to Open-Source</h2>
 
 
 ###
