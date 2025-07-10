@@ -19,7 +19,7 @@
 ###
 
 <h1 align="center">I'm George 👋</h1>
-<h2 align="center">System & Network Administrator | Cybersecurity Student | Contributing to Open-Source</h2>
+<h2 align="center">Sysadmin | Programming Lead @ DUCA | Building Labs & Cybersecurity Tools</h2>
 
 
 ###
@@ -35,24 +35,9 @@
 ###
 
 <p align="left">
-📍 Melbourne, Australia<br>
-💻 System & Network Administrator by day, building security skills and projects by night<br>
-🔒 Focused on offensive security and practical cyber defense<br><br>
-
-<strong>🚀 What I’m Working On</strong><br>
-• Building and supporting infrastructure in a live environment<br>
-• Developing open-source tools for cybersecurity education and community use<br>
-• Contributing to <a href="https://github.com/duca-club/duca-sentinel">DUCA Sentinel</a>, the Discord bot for Deakin University's Cybersecurity Association<br><br>
-
-<strong>📚 What I’m Learning</strong><br>
-• Networking topics for the Cisco CCNA<br>
-• Offensive and defensive security techniques<br>
-• Applying Python, Bash, Go, and JavaScript in real-world cybersecurity scenarios<br><br>
-
-<strong>💡 Fun Stuff</strong><br>
-• Writing up technical lessons and walkthroughs on <a href="https://georgeferres.com">georgeferres.com</a><br>
-• Tinkering with code re: threat detection, intelligence, and automation to solve (and create) cybersecurity challenges<br>
-• Collaborating on projects that support students, clubs, and early-career cybersecurity professionals like myself<br><br>
+📍 Based in Melbourne, Australia<br>
+🖥️ System & Network Administrator securing live infrastructure for IT and Cybersecurity training<br>
+🧠 Focused on defensive operations, threat detection, and practical security engineering<br><br>
 </p>
 
 ###
@@ -99,8 +84,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thelocalfrogman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=thelocalfrogman&theme=dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thelocalfrogman&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ###
