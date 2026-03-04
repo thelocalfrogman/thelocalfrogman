@@ -9,7 +9,7 @@
 │                                                                      │
 │  george@homelab:~$ whoami                                            │
 │                                                                      │
-│  > Cybersecurity Student & Sysadmin since 17                         │
+│  > Cybersecurity Teacher & Sysadmin                                  │
 │  > Builder of Homelabs, Breaker of Things                            │
 │  > Open Source Advocate & Conference Speaker                         │
 │                                                                      │
