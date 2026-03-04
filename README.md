@@ -69,31 +69,6 @@ Presented at **BSides**, this repo helps students, career-switchers and anyone e
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=thelocalfrogman&theme=chartreuse-dark&background=0D1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="170"/>
 
-</div>
-
----
-
-## 🏆 Highlights
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🎤  BSides Speaker - "Homelabs for Hackers"                 ║
-║  🧑‍💻  SysAdmin since age 17                                   ║
-║  🤖  Created AI prompt engineering course for industry       ║
-║  📡  Self-hosting advocate                                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
 <img src="https://github.com/thelocalfrogman/thelocalfrogman/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
